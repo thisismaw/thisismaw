@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Willem Aaron
-- 👀 I’m interested in coding, playing video games and basketball
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on python and c# projects
+- 👀 I’m interested in coding, digital marketing, analytics and progress.
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on Python, C# and front-end projects.
 - 📫 How to reach me discord: mumen#2258
 
 <!---
